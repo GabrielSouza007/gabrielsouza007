@@ -1,8 +1,8 @@
-# Hi 👋 
+# Hi 👋, I'm Gabriel
 
 ⚡ I’m always looking to improve
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascriptlogo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
