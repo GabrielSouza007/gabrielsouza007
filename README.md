@@ -2,7 +2,7 @@
 
 <p align="left">
   ⚡ I'm always looking to improve<br>
-  🔭 I’m currently learning React Native and Android Studio
+  🔭 I’m currently learning React and TypeScript
 </p>
 
 # 💻 Tech Stack
