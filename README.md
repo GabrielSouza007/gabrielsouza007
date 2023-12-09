@@ -1,16 +1,13 @@
 # Hi, my name is Gabriel 
 
-<p align="left">
-  ⚡ I'm always looking to improve<br>
-</p>
-
-<h2>About</h2>
+<h2 align="center">About</h2>
 
 <div align="left">
 
 I am a Front-End Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
+
 - Html
 - Css
 - JavaScript
