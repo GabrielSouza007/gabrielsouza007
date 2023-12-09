@@ -1,5 +1,3 @@
-# Hi, my name is Gabriel 
-
 <h2 align="center">About</h2>
 
 <div align="left">
@@ -27,13 +25,11 @@ I love challenges and I want to grow professionally every single day.
 
 
 <div align="left">
-  <a href="https://www.instagram.com/gabriel.maaciel_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/gabriel-maaciel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
 </div>
+
 
 
 
