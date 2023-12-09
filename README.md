@@ -28,7 +28,7 @@ I love challenges and I want to grow professionally every single day.
   <a href="https://www.instagram.com/gabriel.maaciel_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a>
-  <a href="gs7.dev@gmail.com" target="_blank">
+  <a href=" mailto:contact@dgs7.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-maaciel/" target="_blank">
