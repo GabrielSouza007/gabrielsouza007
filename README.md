@@ -13,7 +13,8 @@ I have experiencie with the following technologies:
 - Next.js
 - Node.js
 - TypeScript
-- PostgreSQL, MySQL
+- PostgreSQL
+- MySQL
 - Git
 
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
