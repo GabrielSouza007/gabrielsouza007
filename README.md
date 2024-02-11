@@ -4,8 +4,6 @@
 
 I am a Front-End Developer, in love with the tech area and passionate about solving problems.
 
-I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
-
 I love challenges and I want to grow professionally every single day.
 
 </div>
