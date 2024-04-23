@@ -2,7 +2,7 @@
 
 <div align="left">
 
-I am a Front-End Developer, in love with the tech area and passionate about solving problems.
+I'm a Front-End Developer, in love with the tech area and passionate about solving problems.
 
 I love challenges and I want to grow professionally every single day.
 
