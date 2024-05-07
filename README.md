@@ -1,14 +1,11 @@
-<h2 align="center">Hi, I'm Gabriel</h2>
+<h1 align="left">Gabriel Souza</h1>
 
-<div align="left">
+Front-End Developer
 
-I'm a Front-End Developer, in love with the tech area and passionate about solving problems.
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)]() 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-maaciel/) 
+[![Email Badge](https://img.shields.io/badge/-0047AB?logo=gmail&logoColor=white&label=gs7.dev%40gmail.com&labelColor=0047AB&link=mailto%3Ags7.dev%40gmail.com)](mailto:gs7.dev@gmail.com)
 
-I love challenges and I want to grow professionally every single day.
+Working with JavaScript, TypeScript, React, and other related tools.
 
-</div>
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-                                                                                                      ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Feel free to check my repositories and to reach me out through the links above.
